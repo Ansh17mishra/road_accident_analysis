@@ -15,3 +15,4 @@ Impact of Weather Conditions: ⛈️ Adverse weather conditions directly affect 
 Vehicle Types Involved: 🚘 Specific vehicle types involved in accidents suggest targeted safety campaigns and regulatory interventions.
 
 Let's prioritize road safety and work towards a safer future! 🛣️
+![road_analysis](https://github.com/Ansh17mishra/road_accident_analysis/assets/158059364/494aba77-c3d4-4347-990f-f7fce9eb7a2a)
